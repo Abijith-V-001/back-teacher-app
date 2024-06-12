@@ -39,6 +39,9 @@ app.post("/view",(req,res)=>{
     )
 })
 
+
+
+
 app.listen(8080,()=>{
     console.log("server started")
 })
